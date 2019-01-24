@@ -1,0 +1,207 @@
+body
+{
+	background-color: #BFBFBF;
+}
+
+.div-boczny
+{
+	float: left;
+	height: 10px;
+	width: 10vw;
+}
+
+#div-glowny
+{
+	background-color: white;
+	float: left;
+	min-width: 800px;
+	padding: 10px;
+	width: 80vw;
+}
+
+.filtr
+{
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.filtr-cena
+{
+	width: 40%;
+}
+
+.img-thumbnail
+{
+	max-height: 180px !important;
+	max-width: 200px !important;
+}
+
+.komentarz
+{
+	border-style: ridge;
+	border-width: 5px;
+	margin: 5px;
+	padding: 10px;
+}
+
+.komentarz-link
+{
+	color: #000000;
+}
+
+.komentarz-link:hover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.komentarz-negatywny
+{
+	background-color: #991f00;
+}
+
+.komentarz-neutralny
+{
+	background-color: #BFBFBF;
+}
+
+.komentarz-pozytywny
+{
+	background-color: #009900;
+}
+
+#link-login
+{
+	color: #000000;
+}
+
+#link-login:hover
+{
+	color: #555555;
+	text-decoration: none;
+}
+
+#menu
+{
+	float: left;
+	width: 20%;
+}
+
+.oferta
+{
+	background-color: #ffbf80;
+	border-style: ridge;
+	border-width: 5px;
+	margin: 5px;
+	padding: 10px;
+}
+
+.oferta-informacje
+{
+	padding-left: 30px;
+}
+
+.oferta-informacje p
+{
+	margin-bottom: 8px;
+}
+
+.oferta-informacje-nazwa
+{
+	color: #86592D;
+}
+
+.oferta-informacje-nazwa:hover
+{
+	color: #CC9966;
+	text-decoration: none;
+}
+
+.oferta-zdjecie
+{
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.oferta-zdjecie-ramka
+{
+	height: 10%;
+}
+
+.opis-oferty
+{
+	margin-top: 30px;
+}
+
+.przeczytane
+{
+	background-color: #E6E6E6;
+}
+
+.slajder-przycisk
+{
+	margin-top: 10px;
+	width: 110px;
+}
+
+#strona-glowna-glowny-kontener
+{
+	display: flex;
+	flex-direction: column;
+}
+
+#strona-glowna-glowny-kontener a
+{
+	text-decoration: none;
+}
+
+.strona-glowna-kontener
+{
+	height: 200px;
+	line-height: 100px;
+	margin: 10px;
+	padding-top: 10px;
+}
+
+.strona-glowna-kontener h1
+{
+	color: #FFFFFF;
+	line-height: 100px;
+	text-align: center;
+}
+
+textarea
+{
+	height: 150px;
+}
+
+#tresc
+{
+	float: left;
+	width: 80%;
+}
+
+.walidacja-blad
+{
+	color: red !important;
+}
+
+#widok-oferty-informacje-informacje
+{
+	float: left;
+	width: 50%;
+}
+
+#widok-oferty-informacje-zdjecie
+{
+	float: left;
+	max-width: 50%;
+	width: 50%;
+}
+
+#widok-oferty-zdjecie
+{
+	max-height: 300px;
+	max-width: 100%;
+}
